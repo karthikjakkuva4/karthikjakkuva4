@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/karthikkakunukkur)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/karthikjakkuva4)
 
 # 🚀 Jakkuva Karthik Kumar Patnaik – Full-Stack Developer
 
@@ -16,9 +14,9 @@
 <img align="right" alt="Coding Illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karthikkakunukkur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/karthikkakunukkur?tab=followers">
-    <img src="https://img.shields.io/github/followers/karthikkakunukkur?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=karthikjakkuva4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/karthikjakkuva4?tab=followers">
+    <img src="https://img.shields.io/github/followers/karthikjakkuva4?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -30,8 +28,8 @@
 - 🔭 Building scalable web applications and real-time features at Wysbryx Technologies
 - 💼 Full-Stack Developer Intern at **Wysbryx Technologies Pvt. Ltd.**
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, and System Architecture**  
-- 📫 How to reach me: [Email](mailto:karthikpatnaik@email.com) | [LinkedIn](https://linkedin.com/in/karthik-patnaik/)
-- 🔗 [Portfolio](https://portfolio.example.com/)  
+- 📫 How to reach me: [Email](mailto:karthikjakkuva4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthik-patnaik/)
+- 🔗 [Portfolio](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)  
 - 📄 [Resume](https://drive.google.com/your-resume-link)
 
 ```javascript
@@ -103,7 +101,7 @@ A comprehensive full-stack tourism and travel platform for booking and managing 
 - ✅ Real-time notifications
 
 **Tech Stack:** Next.js, React, Node.js, Express.js, MongoDB, Socket.IO  
-**[View Repository](https://github.com/karthikkakunukkur/travelsys)** | **[Live Demo](https://travelsys.example.com)**
+**[View Repository](https://github.com/karthikjakkuva4/travelsys)** | **[Live Demo](https://travelsys.example.com)**
 
 ---
 
@@ -119,7 +117,7 @@ An enterprise-grade collaboration platform with real-time features for teams to 
 - ✅ Activity feed & notifications
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, JWT Authentication  
-**[View Repository](https://github.com/karthikkakunukkur/synergy)** | **[Live Demo](https://synergy.example.com)**
+**[View Repository](https://github.com/karthikjakkuva4/synergy)** | **[Live Demo](https://synergy.example.com)**
 
 ---
 
@@ -135,7 +133,7 @@ A complete HR solution for managing employee leaves, timesheets, expenses, and a
 - ✅ Document management
 
 **Tech Stack:** Next.js, React, Node.js, PostgreSQL, Drizzle ORM  
-**[View Repository](https://github.com/karthikkakunukkur/hr-management)** | **[Live Demo](https://hr-system.example.com)**
+**[View Repository](https://github.com/karthikjakkuva4/hr-management)** | **[Live Demo](https://hr-system.example.com)**
 
 ---
 
@@ -144,7 +142,7 @@ A complete HR solution for managing employee leaves, timesheets, expenses, and a
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikkakunukkur&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
   
 </div>
 
@@ -174,7 +172,7 @@ A complete HR solution for managing employee leaves, timesheets, expenses, and a
 
 <div align="center">
   
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikkakunukkur&theme=github&area=true&hide_border=true)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikjakkuva4&theme=github&area=true&hide_border=true)
   
 </div>
 
@@ -202,19 +200,16 @@ plan_to_learn:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/karthik-patnaik/" target="_blank">
+  <a href="https://www.linkedin.com/in/karthik-patnaik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/karthikkakunukkur" target="_blank">
+  <a href="https://github.com/karthikjakkuva4" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/karthikpatnaik" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://portfolio.example.com" target="_blank">
+  <a href="https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:karthikpatnaik@email.com">
+  <a href="mailto:karthikjakkuva4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -251,11 +246,11 @@ PostgreSQL     ██░░░░░░░░░░░░░░░░░░░�
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=karthikkakunukkur&label=Visitors&color=blue&style=flat" alt="Visitor Counter" />
-    <a href="https://github.com/karthikkakunukkur?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=karthikjakkuva4&label=Visitors&color=blue&style=flat" alt="Visitor Counter" />
+    <a href="https://github.com/karthikjakkuva4?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-10+-blue?style=flat" alt="Repositories" />
     </a>
-    <a href="https://github.com/karthikkakunukkur?tab=stars">
+    <a href="https://github.com/karthikjakkuva4?tab=stars">
       <img src="https://img.shields.io/badge/Stars-50+-yellow?style=flat" alt="Stars" />
     </a>
   </p>
