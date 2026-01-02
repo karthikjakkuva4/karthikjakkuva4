@@ -1,9 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://github.com/karthikjakkuva4)
 
+# 🚀 Jakkuva Karthik Kumar Patnaik – Full-Stack Developer
+
 <h1 align="center">👋 Hi, I'm Karthik Patnaik</h1>
 
 <h3 align="center">
-  Full-Stack Developer | MERN Stack Specialist 🚀
+  Full-Stack Intern | MERN Stack Developer 🚀
   <br/>
   Building Production-Grade Applications | Wysbryx Technologies
 </h3>
@@ -24,7 +26,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding Illustration" width="380" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
+<img align="right" alt="Coding Illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
