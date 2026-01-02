@@ -1,11 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://github.com/karthikjakkuva4)
 
-# 🚀 Jakkuva Karthik Kumar Patnaik – Full-Stack Developer
-
 <h1 align="center">👋 Hi, I'm Karthik Patnaik</h1>
 
 <h3 align="center">
-  Full-Stack Intern | MERN Stack Developer 🚀
+  Full-Stack Developer | MERN Stack Specialist 🚀
   <br/>
   Building Production-Grade Applications | Wysbryx Technologies
 </h3>
@@ -26,7 +24,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding Illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Illustration" width="380" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 
 ---
 
@@ -40,9 +38,11 @@ I'm a **Full-Stack Developer Intern** at **Wysbryx Technologies Pvt. Ltd.** with
 - 🌱 Deepening expertise in **MERN stack** — React, Next.js, Node.js, and Database Architecture
 - 🚀 Currently building real-time features and scalable applications
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, Socket.IO, and System Design**
+- 💡 **Philosophy:** "Code. Deploy. Improve. Repeat."
 
-- 📫 How to reach me: 
-[Email](mailto:karthikjakkuva4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthik-patnaik/)
+### 📌 Quick Links
+- 📧 **Email:** [karthikjakkuva4@gmail.com](mailto:karthikjakkuva4@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/karthik-patnaik/](https://www.linkedin.com/in/karthik-patnaik/)
 - 🌐 **Portfolio:** [My Work](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)
 - 📄 **Resume:** [Download](https://653a6a6720de1d3b5706ba45--vermillion-belekoy-db6ae6.netlify.app/)
 
@@ -66,7 +66,7 @@ const karthik = {
     devTools: ["Git", "VS Code", "Postman", "Thunder Client", "GitHub"]
   },
   
-  currentProjects: [
+  currentWork: [
     "🏨 Hotel Booking App",
     "✈️ TravelSys - Tourism & Travel Platform",
     "🤝 Synergy Project Management System",
@@ -98,7 +98,7 @@ const karthik = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-AA0000?style=for-the-badge&logo=mongoose&logoColor=white)
@@ -130,7 +130,7 @@ A comprehensive hotel booking application built with modern web technologies, fe
 - ✅ Admin analytics & reporting
 
 **Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Socket.IO  
-**[🔗 View Repository](https://github.com/karthikjakkuva4/Hotel-Booking-App.git)**  | **[Live Demo](https://Bookings.example.com)**
+**[🔗 View Repository](https://github.com/karthikjakkuva4/Hotel-Booking-App.git)**
 
 ---
 
@@ -149,7 +149,7 @@ A comprehensive tourism platform that streamlines the entire travel booking expe
 - ✅ Customer reviews & ratings system
 
 **Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Socket.IO  
-**[🔗 View Repository](https://github.com/karthikjakkuva4/travelsys__wysbryx.git)**  | **[Live Demo](https://travelsys.example.com)**
+**[🔗 View Repository](https://github.com/karthikjakkuva4/travelsys__wysbryx.git)**
 
 ---
 
@@ -168,7 +168,7 @@ An enterprise-grade collaboration tool that brings teams together with real-time
 - ✅ Team performance analytics
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • Socket.IO • JWT Auth  
-**[🔗 View Repository](https://github.com/karthikjakkuva4/Synergy.git)** | **[Live Demo](https://synergy.example.com)**
+**[🔗 View Repository](https://github.com/karthikjakkuva4/Synergy.git)**
 
 ---
 
@@ -187,7 +187,7 @@ A comprehensive HR management system designed for enterprises, handling complex 
 - ✅ HR analytics & reporting dashboard
 
 **Tech Stack:** Next.js • React • Node.js • PostgreSQL • Drizzle ORM  
-**[🔗 View Repository](https://github.com/karthikjakkuva4/Employee-Leave-Management-System.git)** | **[Live Demo](https://hr-system.example.com)**
+**[🔗 View Repository](https://github.com/karthikjakkuva4/Employee-Leave-Management-System.git)**
 
 ---
 
@@ -218,41 +218,27 @@ future_roadmap:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3)
 
 </div>
 
 <div align="center">
 
-  <!-- GitHub Contribution Snake -->
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### 🐍 Contribution Snake Animation
+![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
-## 📈 Contribution Graph
-
 <div align="center">
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikjakkuva4&theme=github&area=true&hide_border=true)
-  
+
+### 📈 Contribution Activity Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikjakkuva4&theme=github&area=true&hide_border=true)
+
 </div>
 
 ---
@@ -292,36 +278,6 @@ PostgreSQL     ██░░░░░░░░░░░░░░░░░░░�
 | **Learning Style** | Hands-on & Project-Based |
 
 </div>
-
----
-
-## 🔮 Future Tech Stack
-
-### 🚀 DevOps & Cloud
-- 🐳 Docker & Docker Compose
-- 🌐 Nginx
-- ☸️ Kubernetes
-- ⚡ Redis
-- 📊 Kafka
-- 🏗️ Jenkins
-- 🌍 Terraform
-- 🪣 AWS S3
-- 📀 DynamoDB
-- ☁️ EKS
-- 📈 ELK Stack
-
-### 🧪 Testing
-- 🎭 Playwright
-- 🧪 Jest
-- 🟢 Cypress
-- 🔧 Mocha + Chai + Jasmine + Supertest
-
-### 🤖 AI & Machine Learning
-- 🤖 AI
-- 🧠 Generative AI
-- 🤝 Agentic AI & AI Agents
-- 📚 Machine Learning
-- 🧮 Deep Learning
 
 ---
 
