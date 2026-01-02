@@ -218,15 +218,16 @@ future_roadmap:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-<!-- GitHub Trophies - This usually works -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 
 </div>
+
+<div align="center">
 
   <!-- GitHub Contribution Snake -->
   <picture>
@@ -243,7 +244,7 @@ future_roadmap:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-  
+
 </div>
 
 ## 📈 Contribution Graph
@@ -291,6 +292,36 @@ PostgreSQL     ██░░░░░░░░░░░░░░░░░░░�
 | **Learning Style** | Hands-on & Project-Based |
 
 </div>
+
+---
+
+## 🔮 Future Tech Stack
+
+### 🚀 DevOps & Cloud
+- 🐳 Docker & Docker Compose
+- 🌐 Nginx
+- ☸️ Kubernetes
+- ⚡ Redis
+- 📊 Kafka
+- 🏗️ Jenkins
+- 🌍 Terraform
+- 🪣 AWS S3
+- 📀 DynamoDB
+- ☁️ EKS
+- 📈 ELK Stack
+
+### 🧪 Testing
+- 🎭 Playwright
+- 🧪 Jest
+- 🟢 Cypress
+- 🔧 Mocha + Chai + Jasmine + Supertest
+
+### 🤖 AI & Machine Learning
+- 🤖 AI
+- 🧠 Generative AI
+- 🤝 Agentic AI & AI Agents
+- 📚 Machine Learning
+- 🧮 Deep Learning
 
 ---
 
