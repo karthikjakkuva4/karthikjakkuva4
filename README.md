@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding Illustration" width="380" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
+<img align="right" alt="Coding Illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
