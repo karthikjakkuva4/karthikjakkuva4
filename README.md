@@ -1,74 +1,88 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://github.com/karthikjakkuva4)
 
-# 🚀 Jakkuva Karthik Kumar Patnaik – Full-Stack Developer
-
 <h1 align="center">👋 Hi, I'm Karthik Patnaik</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Specialist from India 🇮🇳</h3>
+
+<h3 align="center">
+  Full-Stack Developer | MERN Stack Specialist 🚀
+  <br/>
+  Building Production-Grade Applications | Wysbryx Technologies
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcyOTk5MTUsIm5iZiI6MTc2NzI5OTYxNSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAxVDIwMzMzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjOWVmZjU1ZGMyMGUyZTFiNWM0Y2QzZDcxMDJjN2VmN2NhOTEzZWE1Yzk2OWZjMzIzNWE1OTczNTM1YTMyOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.82q0CJJ1d_vm-3cJWH5rXP4Q9C3m33TzBtBTrki86_I" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;MERN+Stack+Specialist;Full-Stack+Developer;Real-Time+Feature+Expert;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
-<img align="right" alt="Coding Illustration" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karthikjakkuva4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikjakkuva4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/karthikjakkuva4?tab=followers">
-    <img src="https://img.shields.io/github/followers/karthikjakkuva4?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/karthikjakkuva4?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/karthik-patnaik/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
+<img align="right" alt="Coding Illustration" width="380" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently deepening expertise in **MERN stack**, focusing on React, Next.js, Node.js, and Database Design  
-- 🔭 Building scalable web applications and real-time features at Wysbryx Technologies
-- 💼 Full-Stack Developer Intern at **Wysbryx Technologies Pvt. Ltd.**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, and System Architecture**  
-- 📫 Email: [karthikjakkuva4@gmail.com](mailto:karthikjakkuva4@gmail.com) | Resume: [https://653a6a6720de1d3b5706ba45--vermillion-belekoy-db6ae6.netlify.app/](https://653a6a6720de1d3b5706ba45--vermillion-belekoy-db6ae6.netlify.app/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karthik-patnaik/) | [Portfolio](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)
+I'm a **Full-Stack Developer Intern** at **Wysbryx Technologies Pvt. Ltd.** with a passion for building scalable, production-grade web applications. I specialize in the **MERN stack** and am deeply invested in creating seamless user experiences paired with robust backend systems.
+
+- 🎓 **MERN Fellowship** at Hyperverge Academy
+- 🏢 **Current Role:** Full-Stack Developer Intern at Wysbryx Technologies
+- 📍 **Location:** Electronic City, Bangalore, India
+- 🌱 Deepening expertise in **MERN stack** — React, Next.js, Node.js, and Database Architecture
+- 🚀 Currently building real-time features and scalable applications
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, PostgreSQL, Socket.IO, and System Design**
+- 💡 **Philosophy:** "Code. Deploy. Improve. Repeat."
+
+### 📌 Quick Links
+- 📧 **Email:** [karthikjakkuva4@gmail.com](mailto:karthikjakkuva4@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/karthik-patnaik/](https://www.linkedin.com/in/karthik-patnaik/)
+- 🌐 **Portfolio:** [My Work](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)
+- 📄 **Resume:** [Download](https://653a6a6720de1d3b5706ba45--vermillion-belekoy-db6ae6.netlify.app/)
+
+---
+
+## 💻 Tech Stack Overview
 
 ```javascript
 const karthik = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "SQL"],
-  technologies: {
+  location: "Bangalore, India 🇮🇳",
+  
+  languages: ["JavaScript", "TypeScript", "SQL"],
+  
+  expertise: {
     frontend: ["React", "Next.js", "Tailwind CSS", "TypeScript"],
     backend: ["Node.js", "Express.js", "RESTful APIs", "Socket.IO"],
     database: ["MongoDB", "Mongoose", "PostgreSQL", "Drizzle ORM"],
     realtime: ["Socket.IO", "WebSockets"],
-    authentication: ["JWT", "Google OAuth"],
-    tools: ["Git", "VS Code", "Postman", "Thunder Client"]
+    auth: ["JWT", "Google OAuth"],
+    devTools: ["Git", "VS Code", "Postman", "Thunder Client", "GitHub"]
   },
-  currentProjects: [
-    "Hotel Booking App",
-    "TravelSys - Tourism & Travel Platform",
-    "Synergy Project Management System",
-    "Employee Leave Management System"
+  
+  currentWork: [
+    "🏨 Hotel Booking App",
+    "✈️ TravelSys - Tourism & Travel Platform",
+    "🤝 Synergy Project Management System",
+    "👥 Employee Leave Management System"
   ],
-  currentFocus: "Building scalable full-stack applications with MERN",
-  motto: "Code. Deploy. Improve. Repeat."
+  
+  focusArea: "Building scalable full-stack applications with MERN",
+  mission: "Creating production-ready solutions that users love"
 };
 ```
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="600" alt="Collaboration" />
-</p>
-
----
-
 ## 🚀 Skills & Technologies
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Skills" />
-</p>
-
-### 🎨 Frontend
+### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -77,225 +91,216 @@ const karthik = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-AA0000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="Currently Learning" />
-</p>
-
-```yaml
-current_focus:
-  - Advanced Next.js patterns & optimization
-  - Real-time features with WebSockets
-  - Scalable database architecture
-  - DevOps & deployment practices
-
-learning_now:
-  - GraphQL
-  - Docker & Kubernetes
-  - AWS Services
-  - Advanced System Design
-  - NestJS for backend
-```
-
----
-
-## 🔮 Future Tech Stack
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcyOTk5MTUsIm5iZiI6MTc2NzI5OTYxNSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAxVDIwMzMzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmODdlYzA2NjA5OTFhNGIzNmI2NWI4MmVkNWY1NmFhMzEyNGRiYzAzZGIxZGNhNDAwOTdkZWViY2UzNDJjMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zx0gBkH1BW7bdUUt68UcxJ_qOLxMGqlkLsv5aidp5Hk" width="500" alt="Future Tech" />
-</p>
-
-### 🚀 DevOps & Cloud
-- 🐳 Docker & Docker Compose
-- 🌐 Nginx
-- ☸️ Kubernetes
-- ⚡ Redis
-- 📊 Kafka
-- 🏗️ Jenkins
-- 🌍 Terraform
-- 🪣 AWS S3
-- 📀 DynamoDB
-- ☁️ EKS
-- 📈 ELK Stack
-
-### 🧪 Testing
-- 🎭 Playwright
-- 🧪 Jest
-- 🟢 Cypress
-- 🔧 Mocha + Chai + Jasmine + Supertest
-
-### 🤖 AI & Machine Learning
-- 🤖 AI
-- 🧠 Generative AI
-- 🤝 Agentic AI & AI Agents
-- 📚 Machine Learning
-- 🧮 Deep Learning
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-2E68C0?style=for-the-badge&logo=http&logoColor=white)
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🏨 Hotel Booking App
-A full-featured hotel booking application with comprehensive search, booking, and management capabilities.
+**A full-featured hotel booking platform with real-time availability and secure transactions**
 
-**Features:**
-- ✅ Hotel search and filtering
+A comprehensive hotel booking application built with modern web technologies, featuring advanced search, filtering, and booking management capabilities.
+
+**Key Features:**
+- ✅ Advanced hotel search & filtering system
 - ✅ Real-time availability checking
-- ✅ Secure booking system
-- ✅ User authentication
-- ✅ Payment integration
-- ✅ Booking management dashboard
+- ✅ Secure booking & reservation management
+- ✅ User authentication & authorization
+- ✅ Integrated payment processing
+- ✅ Interactive booking dashboard
+- ✅ Admin analytics & reporting
 
-**Tech Stack:** Next.js, React, Node.js, Express.js, MongoDB, Socket.IO  
-**[View Repository](https://github.com/karthikjakkuva4/Hotel-Booking-App.git)**
+**Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Socket.IO  
+**[🔗 View Repository](https://github.com/karthikjakkuva4/Hotel-Booking-App.git)**
 
 ---
 
-### 🌍 TravelSys - Tourism & Travel Platform
-A comprehensive full-stack tourism and travel platform for booking and managing travel packages.
+### ✈️ TravelSys - Tourism & Travel Platform
+**Enterprise-grade tourism platform for discovering, booking, and managing travel experiences**
 
-**Features:**
-- ✅ User authentication & authorization
-- ✅ Booking management system
-- ✅ Payment integration
-- ✅ Package management & discovery
+A comprehensive tourism platform that streamlines the entire travel booking experience with real-time notifications and admin controls.
+
+**Key Features:**
+- ✅ Intelligent travel package discovery system
+- ✅ Complete booking & management workflow
+- ✅ Secure payment integration
+- ✅ User authentication with role-based access
 - ✅ Admin dashboard with analytics
-- ✅ Real-time notifications
+- ✅ Real-time notifications & updates
+- ✅ Customer reviews & ratings system
 
-**Tech Stack:** Next.js, React, Node.js, Express.js, MongoDB, Socket.IO  
-**[View Repository](https://github.com/karthikjakkuva4/travelsys__wysbryx.git)**
+**Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Socket.IO  
+**[🔗 View Repository](https://github.com/karthikjakkuva4/travelsys__wysbryx.git)**
 
 ---
 
 ### 🤝 Synergy - Project Management System
-An enterprise-grade collaboration platform with real-time features for teams to manage projects efficiently.
+**Real-time collaboration platform enabling teams to manage projects, meetings, and tasks efficiently**
 
-**Features:**
-- ✅ Real-time project updates (Socket.IO)
-- ✅ Meeting scheduler & management
-- ✅ Project & task tracking
-- ✅ Team collaboration tools
-- ✅ Issues & bug tracking
-- ✅ Activity feed & notifications
+An enterprise-grade collaboration tool that brings teams together with real-time updates, comprehensive project tracking, and intuitive team communication.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, JWT Authentication  
-**[View Repository](https://github.com/karthikjakkuva4/Synergy.git)**
+**Key Features:**
+- ✅ Real-time project updates via Socket.IO
+- ✅ Meeting scheduler & management system
+- ✅ Comprehensive project & task tracking
+- ✅ Integrated team collaboration tools
+- ✅ Issues & bug tracking with workflows
+- ✅ Live activity feed & notifications
+- ✅ Team performance analytics
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Socket.IO • JWT Auth  
+**[🔗 View Repository](https://github.com/karthikjakkuva4/Synergy.git)**
 
 ---
 
 ### 👥 Employee Leave Management System
-A complete HR solution for managing employee leaves, timesheets, expenses, and approval workflows.
+**Complete HR solution for managing leaves, timesheets, expenses, and approval workflows**
 
-**Features:**
-- ✅ Leave request & approval workflows
-- ✅ Timesheet management
-- ✅ Expense tracking & reimbursement
-- ✅ Multi-level approval system
+A comprehensive HR management system designed for enterprises, handling complex approval workflows and document management with role-based access control.
+
+**Key Features:**
+- ✅ Leave request & multi-level approval workflows
+- ✅ Timesheet & attendance tracking
+- ✅ Expense submission & reimbursement management
+- ✅ Multi-level approval hierarchy
 - ✅ Role-based access control (RBAC)
-- ✅ Document management
+- ✅ Document management system
+- ✅ HR analytics & reporting dashboard
 
-**Tech Stack:** Next.js, React, Node.js, PostgreSQL, Drizzle ORM  
-**[View Repository](https://github.com/karthikjakkuva4/Employee-Leave-Management-System.git)**
+**Tech Stack:** Next.js • React • Node.js • PostgreSQL • Drizzle ORM  
+**[🔗 View Repository](https://github.com/karthikjakkuva4/Employee-Leave-Management-System.git)**
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning & Future Focus
+
+```yaml
+current_focus:
+  - Advanced Next.js patterns & performance optimization
+  - Real-time features with WebSockets
+  - Scalable database architecture & optimization
+  - DevOps & deployment practices
+
+actively_learning:
+  - GraphQL for efficient API design
+  - Docker & containerization
+  - Kubernetes orchestration
+  - AWS cloud services (EC2, S3, Lambda)
+  - NestJS for enterprise backends
+  - Advanced system design patterns
+
+future_roadmap:
+  - Microservices architecture
+  - CI/CD pipeline optimization
+  - Cloud infrastructure management
+  - Advanced performance optimization
+  - AI/ML integration in web apps
+```
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3)
 
 </div>
 
 <div align="center">
 
-  <!-- GitHub Contribution Snake -->
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### 🐍 Contribution Snake Animation
+![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
 
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikjakkuva4&theme=github&area=true&hide_border=true)
+### 📈 Contribution Activity Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikjakkuva4&theme=github&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 💡 Development Statistics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karthik-patnaik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/karthikjakkuva4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:karthikjakkuva4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-## 📊 Weekly Development Breakdown
-
+**Weekly Language Breakdown:**
 ```text
 TypeScript     ██████████░░░░░░░░░░░░░░░   45.2%
-JavaScript     ███████░░░░░░░░░░░░░░░░░░   32.1%
+JavaScript     ███████░░░░░░░░░░░░░░░░░░░   32.1%
 MongoDB        ████░░░░░░░░░░░░░░░░░░░░░   15.5%
 PostgreSQL     ██░░░░░░░░░░░░░░░░░░░░░░░   07.2%
 ```
 
 ---
 
+## 🎯 What I'm Working On
+
+- 🔄 **Real-Time Applications:** Building robust real-time features using Socket.IO and WebSockets
+- 📊 **Database Optimization:** Designing scalable database architectures for high-traffic applications
+- 🚀 **Full-Stack Development:** Creating end-to-end solutions from frontend to backend
+- 🧪 **Code Quality:** Following best practices, writing clean code, and implementing comprehensive testing
+- 📚 **Knowledge Sharing:** Contributing to open-source and documenting solutions
+
+---
+
+## 🌟 Highlights
+
 <div align="center">
 
-  ### 💡 Random Dev Quote
+| Metric | Value |
+|--------|-------|
+| **Projects Built** | 4+ Production Applications |
+| **Tech Stack** | MERN + PostgreSQL |
+| **Real-Time Features** | Socket.IO Expertise |
+| **Current Focus** | Scalability & Optimization |
+| **Learning Style** | Hands-on & Project-Based |
 
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on interesting projects, discuss web development, and help solve challenging technical problems. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-patnaik/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikjakkuva4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikjakkuva4@gmail.com)
+
+</div>
+
+---
+
+## 💬 Random Dev Wisdom
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -303,20 +308,31 @@ PostgreSQL     ██░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+### ✨ Thanks for Visiting!
 
-  <p>
-    <em>Thanks for visiting! Let's build something amazing together! 🚀</em>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=karthikjakkuva4&label=Visitors&color=blue&style=flat" alt="Visitor Counter" />
-    <a href="https://github.com/karthikjakkuva4?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-15+-blue?style=flat" alt="Repositories" />
-    </a>
-    <a href="https://github.com/karthikjakkuva4?tab=stars">
-      <img src="https://img.shields.io/badge/Stars-50+-yellow?style=flat" alt="Stars" />
-    </a>
-  </p>
+<p>
+  <strong>Let's build something extraordinary together! 🚀</strong>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=karthikjakkuva4&label=Total+Visitors&color=0e75b6&style=flat-square" alt="Visitors" />
+  <br/>
+  <a href="https://github.com/karthikjakkuva4?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-15+-blue?style=flat-square" alt="Repositories" />
+  </a>
+  <a href="https://github.com/karthikjakkuva4?tab=stars">
+    <img src="https://img.shields.io/badge/GitHub%20Stars-50+-yellow?style=flat-square" alt="Stars" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2026 Jakkuva Karthik Kumar Patnaik | All Rights Reserved**
 
 </div>
