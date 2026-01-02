@@ -43,8 +43,6 @@ I'm a **Full-Stack Developer Intern** at **Wysbryx Technologies Pvt. Ltd.** with
 
 - 📫 How to reach me: 
 [Email](mailto:karthikjakkuva4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthik-patnaik/)
-- 🔗 [Portfolio](https://portfolio-ashen-eight-55.vercel.app/)  
-- 📄 [Resume](https://drive.google.com/file/d/1D0yM35shJIDHKfwc5K5AAmSqyxor2ZhT/view?usp=sharing)
 - 🌐 **Portfolio:** [My Work](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)
 - 📄 **Resume:** [Download](https://653a6a6720de1d3b5706ba45--vermillion-belekoy-db6ae6.netlify.app/)
 
@@ -220,17 +218,16 @@ future_roadmap:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikkakunukkur&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-  
+### 🏆 GitHub Trophies
+<!-- GitHub Trophies - This usually works -->
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikjakkuva4&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+
 </div>
 
-<div align="center">
-  
   <!-- GitHub Contribution Snake -->
   <picture>
   <source
@@ -249,13 +246,11 @@ future_roadmap:
   
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikkakunukkur&theme=github&area=true&hide_border=true)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikjakkuva4&theme=github&area=true&hide_border=true)
   
 </div>
 
@@ -305,23 +300,11 @@ I'm always excited to collaborate on interesting projects, discuss web developme
 
 <div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/karthik-patnaik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/karthikkakunukkur" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/karthikpatnaik" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://portfolio.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:karthikpatnaik@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-patnaik/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikjakkuva4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://65da3010d1a1b425f6eea09a--astounding-cupcake-ee1da3.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikjakkuva4@gmail.com)
+
 </div>
 
 ---
